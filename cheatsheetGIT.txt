@@ -1,0 +1,7 @@
+git init  : initialiser git dans un fichier
+git add -A : ajouter tout les "nouveau" fichiers
+git commit -a -m : sauvegarder (-a :tout ,-m :message)
+git checkout <branche> : changer de branche
+git checkout -b <branche> : creer une nouvelle branche et va dedans
+git push : envoie vers git
+git pull: prend de git
